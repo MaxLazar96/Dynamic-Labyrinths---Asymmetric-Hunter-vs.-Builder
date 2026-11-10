@@ -5,8 +5,6 @@ A 3D asymmetric multiplayer game in Unity where the maze changes during play. It
 > B.Sc. Software Engineering capstone project (Braude College), built with one partner.
 > **My part:** most of the back end: the pathfinding algorithms, the server-client networking, the core game logic, and training the AI bots.
 
-![Gameplay](docs/gameplay.gif)
-<!-- Turn "POC ML & Alg.mov" into a short GIF and save it at docs/gameplay.gif -->
 
 ## Features
 - **Asymmetric multiplayer:** Hunter and Builder have different goals and controls
