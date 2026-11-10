@@ -28,3 +28,11 @@ ExportedObj/
 *.pidb.meta
 *.pdb.meta
 *.mdb.meta
+
+# macOS
+.DS_Store
+
+# Build output (publish builds as GitHub Releases instead)
+DynamicLab/iOS_Build*/
+DynamicLab/*.app/
+DynamicLab/*_DoNotShip/
